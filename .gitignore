@@ -1,3 +1,5 @@
+TMDB_api_key = "bf01728d4fa81951f41df563ddda16b8"
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
