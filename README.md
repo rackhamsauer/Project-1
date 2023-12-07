@@ -6,7 +6,9 @@ The research of our analysis came from thinking about movies and questions arisi
 
 ## Demystifying the Genre-Rating Myth: A Data-Driven Dive by Michéal McCloskey
 
-Intrigued by thoughts of a connection between movie genres and ratings, I embarked on a statistical deep dive through a vast IMDB-like dataset of movies from the 2010’s. Armed with freshly learned skills of T-tests and P-values, I probed for correlations, tested hypotheses, and even employed the mighty linear regression. Yet, after much analysis and chart-gazing, I discovered a surprising truth: that there doesn’t appear to be any  grand, overarching correlation between genre and rating.
+Movie genres and ratings play a significant role in the film industry, influencing audience preferences, critical acclaim, and commercial success. Analyzing the relationship between these two factors can provide valuable insights into audience tastes, genre trends, and the overall landscape of filmmaking.
+
+Armed with freshly learned skills of T-tests and P-values, correlation heatmaps and linear regression, I embarked on a statistical deep dive through a vast IMDB-like dataset of movies from the 2010’s. Yet, after much analysis and chart-gazing, I discovered a surprising truth: that there doesn’t appear to be any  grand, overarching correlation between genre and rating.
 
 Instead, a curious pattern emerged. Movies with the highest ratings often held a secret weapon: scarcity. The most lauded films were those with the fewest logged ratings, most surprisingly War and Biography movies, suggesting a passionate but niche audience. This counterintuitive finding challenges the notion of genre-driven ratings and invites a deeper exploration of factors beyond genre that shape our movie experiences.
 
@@ -24,7 +26,7 @@ Keeping this in mind, I then filtered out movies that had achieved critical accl
 
 I calculated and created a visualization of the average movie ratings for each certification. The results indicated relatively similar scores, meaning that regardless of certification, there was no clear indicator that one certification did any better than the rest in terms of movie rating.
 
-A boxplot interestingly showed that G rated movies had the highest min. Among other results, this could potentially show that G rated movies will be less likely bomb critically in ratings. However, overall the visualizations and analysis shows very minimal to no direct correlation of intended audience and movie ratings.
+A boxplot interestingly showed that G rated movies had the highest min. Among other results, this could potentially show that G rated movies will be less likely to bomb critically in ratings. However, overall the visualizations and analysis shows very minimal to no direct correlation of intended audience and movie ratings.
 
 ## Revenue and Critical Acclaim by Juliet Messier
 
